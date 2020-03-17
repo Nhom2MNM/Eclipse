@@ -7,4 +7,4 @@ public class A {
 	public int tong() {
 		return a+b;
 	}
-}
+}sys
